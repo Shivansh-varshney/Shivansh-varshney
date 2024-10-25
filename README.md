@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Shivansh-varshney
+- 👀 I’m interested in Data Science, Web development and BlockChain
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to collaborate on Open Source Projects.
+- 📫 How to reach me shivanshvarshney45@gmail.com
+- ⚡ Fun fact:  When I’m not coding, I’m probably experimenting with something new in tech. There’s always another branch to explore in the GitHub of life!
