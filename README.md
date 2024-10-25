@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivansh Varshney</h1>
 <h3 align="center">A passionate Computer Science student from India, eager to learn about Web Development, Data Sceince, and BlockChain</h3>
 
-- 💬 Ask me about **python, js, c++, react, django, and mysql**
+- 💬 Ask me about **python, js, c++, and mysql**
 
 - 📫 How to reach me **shivanshvarshney45@gmail.com**
 
