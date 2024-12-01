@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Shivansh Varshney</h1>
-# 💫 About Me:
+##💫 About Me:
 <h3>
 🔭 I’m currently working on Front-end<br>👯 I’m looking to collaborate on Wagtail<br>🌱 I’m currently learning Front-end and DSA<br>💬 Ask me about python, js, c++, and mysql<br>⚡ Fun fact When I’m not coding, I’m probably experimenting with something new in tech. There’s always another branch to explore in the GitHub of life!</h3>
 
@@ -11,7 +11,7 @@
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivansh-varshney/) 
 
-# 💻 Skills:
+##💻 Skills:
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
