@@ -33,7 +33,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shivansh-varshney&theme=dark&hide_border=true)<br/>
 
 ## 🏆 Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shivansh-varshney&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Shivansh-varshney&theme=radical&no-frame=true&no-bg=true&margin-w=4) 
+
+## Progress
+[![roadmap.sh](https://roadmap.sh/card/wide/6754b60cecc889bb0d2cc20a?variant=dark&roadmaps=datastructures-and-algorithms)](https://roadmap.sh)
 
 ### 🔝 Top Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Shivansh-varshney&limit=5&theme=dark&combine_all_yearly_contributions=true)
