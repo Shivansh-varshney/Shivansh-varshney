@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Shivansh Varshney</h1>
 <h2> 💫 About Me:</h2>
 <h3>
-🔭 I’m currently working on Front-end<br>👯 I’m looking to collaborate on Wagtail<br>🌱 I’m currently learning Front-end and DSA<br>💬 Ask me about python, js, c++, and mysql<br>⚡ Fun fact When I’m not coding, I’m probably experimenting with something new in tech. There’s always another branch to explore in the GitHub of life!</h3>
+🔭 I’m currently working on Front-end<br>🌱 I’m currently learning Front-end<br>💬 Ask me about python, js, c++, and mysql<br>⚡ Fun fact When I’m not coding, I’m probably experimenting with something new in tech. There’s always another branch to explore in the GitHub of life!</h3>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -34,9 +34,6 @@
 
 ## 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shivansh-varshney&theme=radical&no-frame=true&no-bg=true&margin-w=4) 
-
-## Progress
-[![roadmap.sh](https://roadmap.sh/card/wide/6754b60cecc889bb0d2cc20a?variant=dark&roadmaps=datastructures-and-algorithms)](https://roadmap.sh)
 
 ### 🔝 Top Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Shivansh-varshney&limit=5&theme=dark&combine_all_yearly_contributions=true)
