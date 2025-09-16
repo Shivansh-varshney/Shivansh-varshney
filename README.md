@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Shivansh Varshney</h1>
 <h2> 💫 About Me:</h2>
 <h3>
-🔭 I’m currently working on Front-end<br>🌱 I’m currently learning Front-end<br>💬 Ask me about python, js, c++, and mysql<br>⚡ Fun fact When I’m not coding, I’m probably experimenting with something new in tech. There’s always another branch to explore in the GitHub of life!</h3>
+🔭 I’m currently working on MuffinBite<br>🌱 I’m currently learning React Native<br>💬 Ask me about python, js, c++, and mysql<br>⚡ Fun fact When I’m not coding, I’m probably experimenting with something new in tech. There’s always another branch to explore in the GitHub of life!</h3>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
