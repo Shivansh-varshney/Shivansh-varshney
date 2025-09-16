@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shivanshvarshney45@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TN2PrWUFQwlez8SnXxMC0pibLWW_WNZf/view?usp=drive_link](https://drive.google.com/file/d/1TN2PrWUFQwlez8SnXxMC0pibLWW_WNZf/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1TN2PrWUFQwlez8SnXxMC0pibLWW_WNZf/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
