@@ -23,16 +23,12 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh-varshney&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=Shivansh-varshney&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Shivansh-varshney&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shivansh-varshney&theme=dark&hide_border=true)<br/>
 
 ## 🏆 Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shivansh-varshney&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-
-### 🔝 Top Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shivansh-varshney&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shivansh-varshney)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivansh-varshney&show_icons=true&locale=en&layout=compact" alt="shivansh-varshney" /></p>
 
