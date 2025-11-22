@@ -3,17 +3,17 @@
 
 - 🔭 I’m currently working on [Consultory](https://www.consultory.app/)
 
-- 👨‍💻 All of my projects are available at [https://www.shivanshvarshney.tech/](https://www.shivanshvarshney.tech/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://www.shivanshvarshney.tech/)
 
 - 💬 Ask me about **Python, JavaScript, Django, React, React Native.**
 
 - 📫 How to reach me **shivanshvarshney45@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Bm8fNwAG0Hfmlxu--lHfR8Y86OpwILTY/view?usp=sharing](https://drive.google.com/file/d/1Bm8fNwAG0Hfmlxu--lHfR8Y86OpwILTY/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Bm8fNwAG0Hfmlxu--lHfR8Y86OpwILTY/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shivansh-varshney/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivansh-varshney/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shivansh-varshney/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivansh-varshney/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@shivansh_varshn" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shivansh_varshn" height="30" width="40" /></a>
 </p>
 
