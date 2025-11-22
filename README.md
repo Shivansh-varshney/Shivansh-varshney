@@ -25,13 +25,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Shivansh-varshney&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shivansh-varshney&theme=dark&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shivansh-varshney&theme=dark&hide_border=true)
 
 ## 🏆 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shivansh-varshney)](https://github.com/ryo-ma/github-profile-trophy)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivansh-varshney&show_icons=true&locale=en&layout=compact" alt="shivansh-varshney" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivansh-varshney&show_icons=true&locale=en" alt="shivansh-varshney" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivansh-varshney&" alt="shivansh-varshney" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shivansh-varshney&theme=onedark)](https://github.com/Shivansh-varshney)
